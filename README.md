@@ -24,5 +24,8 @@ SEMANA 4
 30 de abril: Aula 8 - Project Management              
 SEMANA 5                    
 
-05 de maio: Aula 9 - Privacy, Security, and Administration + Benefits of the GitHub Community
-07 de maio: Fechamento, informações sobre os vouchers, dicas e agendamento das inscrições para o MS Conexão.
+05 de maio: Aula 9 - Privacy, Security, and Administration
++ Benefits of the GitHub Community
+  
+07 de maio: Fechamento, informações sobre os vouchers, dicas e 
+agendamento das inscrições para o MS Conexão.
